@@ -1,4 +1,4 @@
 module.exports = {
-    publicPath: 'allenabraham777.github.io'
+    publicPath: 'process.env.NODE_ENV === 'production''
   }
   
