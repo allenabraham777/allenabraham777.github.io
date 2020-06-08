@@ -201,11 +201,13 @@ footer a {
   color: #1da1f2;
 }
 
-.credits{
+.credits, .credits a{
   border-top: solid .3rem #fafafa;
   font-size: 1.6rem;
   padding: 3rem 0;
   margin-top: 5rem;
+  text-decoration: none;
+  color: inherit;
 }
 
 @media (max-width: 1000px) {
