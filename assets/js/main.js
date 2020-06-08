@@ -5,8 +5,8 @@ let projects = [
     "style" : "background: linear-gradient(#564592,#CA7DF9);",
     "image" : "foce.png",
     "tags" : [
-      "ReactJS",
-      "Flask",
+      "Flutter",
+      "Python Flask",
       "NodeJS",
     ]
   },
@@ -40,7 +40,8 @@ let projects = [
     "image" : "dyuksha20.png",
     "tags" : [
       "VueJS",
-      "Bootstrap"
+      "Bootstrap",
+      "PostgreSQL"
     ]
   },
   {
