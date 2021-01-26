@@ -41,7 +41,8 @@ let projects = [
     "tags" : [
       "VueJS",
       "Bootstrap",
-      "PostgreSQL"
+      "PostgreSQL",
+      "Docker"
     ]
   },
   {
