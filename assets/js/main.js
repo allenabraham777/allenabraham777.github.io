@@ -15,7 +15,7 @@ let projects = [
      "title" : "Speech to text app",
      "description" : "A react speech to text app made with the use of SpeechRecognition instance of Web api",
      "style" : "background: linear-gradient(#F78FAD,#FDE882);",
-     "image" : "68097713.png",
+     "image" : "7806.jpg",
      "tags" : [
        "ReactJS",
        "BrowserAPI",
