@@ -82,6 +82,18 @@ let projects = [
       "MS Access",
     ]
   },
+  {
+     "title" : "TheAbstraction.Co",
+     "description" : "Official website for The Abstraction",
+     "style" : "background: linear-gradient(#0072FF,#00C6FF);",
+     "image" : "https://github.com/abstractionhere.png",
+     "tags" : [
+       "ReactJS",
+       "GatsbyJS",
+       "GraphQl",
+       "Netlify"
+     ]
+   },
 ]
 
 
