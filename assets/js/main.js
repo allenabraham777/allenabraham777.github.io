@@ -1,5 +1,28 @@
 let projects = [
   {
+     "title" : "TheAbstraction.Co",
+     "description" : "Official website for The Abstraction",
+     "style" : "background: linear-gradient(#0072FF,#00C6FF);",
+     "image" : "68097713.png",
+     "tags" : [
+       "ReactJS",
+       "GatsbyJS",
+       "GraphQl",
+       "Netlify"
+     ]
+   },
+  {
+     "title" : "Speech to text app",
+     "description" : "A react speech to text app made with the use of SpeechRecognition instance of Web api",
+     "style" : "background: linear-gradient(#F78FAD,#FDE882);",
+     "image" : "68097713.png",
+     "tags" : [
+       "ReactJS",
+       "BrowserAPI",
+       "SpeechRecognition"
+     ]
+   },
+  {
     "title" : "FOCE",
     "description" : "Food Observation and Calorie Prediction is a system that takes up the food image, identifies it and predicts the total calories it provides",
     "style" : "background: linear-gradient(#564592,#CA7DF9);",
@@ -82,18 +105,6 @@ let projects = [
       "MS Access",
     ]
   },
-  {
-     "title" : "TheAbstraction.Co",
-     "description" : "Official website for The Abstraction",
-     "style" : "background: linear-gradient(#0072FF,#00C6FF);",
-     "image" : "https://github.com/abstractionhere.png",
-     "tags" : [
-       "ReactJS",
-       "GatsbyJS",
-       "GraphQl",
-       "Netlify"
-     ]
-   },
 ]
 
 
