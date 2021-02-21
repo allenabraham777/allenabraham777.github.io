@@ -3,7 +3,7 @@ let projects = [
      "title" : "TheAbstraction.Co",
      "description" : "Official website for The Abstraction",
      "style" : "background: linear-gradient(#0072FF,#00C6FF);",
-     "image" : "68097713.png",
+     "image" : "theabstractionco.png",
      "tags" : [
        "ReactJS",
        "GatsbyJS",
@@ -15,7 +15,7 @@ let projects = [
      "title" : "Speech to text app",
      "description" : "A react speech to text app made with the use of SpeechRecognition instance of Web api",
      "style" : "background: linear-gradient(#F78FAD,#FDE882);",
-     "image" : "7806.jpg",
+     "image" : "speech2text.png",
      "tags" : [
        "ReactJS",
        "BrowserAPI",
